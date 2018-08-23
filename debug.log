@@ -1,0 +1,6 @@
+[0821/000519:ERROR:process_reader_win.cc(83)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0821/000519:ERROR:exception_snapshot_win.cc(87)] thread ID 6168 not found in process
+[0821/000519:WARNING:crash_report_exception_handler.cc(315)] ProcessSnapshotWin::Initialize failed
+[0821/000529:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[0821/010624:ERROR:process_info.cc(372)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0821/010630:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)

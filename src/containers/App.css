@@ -1,0 +1,12 @@
+
+
+@font-face {
+font-family: 'Caviar Dreams';
+font-style: normal;
+font-weight: normal;
+src: local('Caviar Dreams'), url('CaviarDreams.woff') format('woff');
+}
+
+h1{
+	font-family: 'Caviar Dreams';
+}
